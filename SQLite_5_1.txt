@@ -1,0 +1,12 @@
+{'CustomerID': b'ALFKI', 'OrderID': 10643, 'ProductID': 28, 'ProductName': b'R\xf6ssle Sauerkraut'}
+{'CustomerID': b'ALFKI', 'OrderID': 10643, 'ProductID': 39, 'ProductName': b'Chartreuse verte'}
+{'CustomerID': b'ALFKI', 'OrderID': 10643, 'ProductID': 46, 'ProductName': b'Spegesild'}
+{'CustomerID': b'ALFKI', 'OrderID': 10692, 'ProductID': 63, 'ProductName': b'Vegie-spread'}
+{'CustomerID': b'ALFKI', 'OrderID': 10702, 'ProductID': 3, 'ProductName': b'Aniseed Syrup'}
+{'CustomerID': b'ALFKI', 'OrderID': 10702, 'ProductID': 76, 'ProductName': b'Lakkalik\xf6\xf6ri'}
+{'CustomerID': b'ALFKI', 'OrderID': 10835, 'ProductID': 59, 'ProductName': b'Raclette Courdavault'}
+{'CustomerID': b'ALFKI', 'OrderID': 10835, 'ProductID': 77, 'ProductName': b'Original Frankfurter gr\xfcne So\xdfe'}
+{'CustomerID': b'ALFKI', 'OrderID': 10952, 'ProductID': 6, 'ProductName': b"Grandma's Boysenberry Spread"}
+{'CustomerID': b'ALFKI', 'OrderID': 10952, 'ProductID': 28, 'ProductName': b'R\xf6ssle Sauerkraut'}
+{'CustomerID': b'ALFKI', 'OrderID': 11011, 'ProductID': 58, 'ProductName': b'Escargots de Bourgogne'}
+{'CustomerID': b'ALFKI', 'OrderID': 11011, 'ProductID': 71, 'ProductName': b'Flotemysost'}

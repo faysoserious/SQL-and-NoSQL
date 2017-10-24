@@ -1,0 +1,5 @@
+[(10643, 28, b'R\xf6ssle Sauerkraut'), (10643, 39, b'Chartreuse verte'), (10643, 46, b'Spegesild')]
+[(10702, 3, b'Aniseed Syrup'), (10702, 76, b'Lakkalik\xf6\xf6ri')]
+[(10835, 59, b'Raclette Courdavault'), (10835, 77, b'Original Frankfurter gr\xfcne So\xdfe')]
+[(10952, 6, b"Grandma's Boysenberry Spread"), (10952, 28, b'R\xf6ssle Sauerkraut')]
+[(11011, 58, b'Escargots de Bourgogne'), (11011, 71, b'Flotemysost')]
