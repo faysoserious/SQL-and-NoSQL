@@ -1,0 +1,4 @@
+(b'ALFKI', 10702, 76, b'Lakkalik\xf6\xf6ri', 1, b'Beverages')
+(b'ALFKI', 11011, 71, b'Flotemysost', 4, b'Dairy Products')
+(b'ALFKI', 10952, 28, b'R\xf6ssle Sauerkraut', 7, b'Produce')
+(b'ALFKI', 11011, 58, b'Escargots de Bourgogne', 8, b'Seafood')
